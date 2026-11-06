@@ -1,0 +1,366 @@
+firm_id,ticker,name,fiscal_year,stage,reason
+0001744489,DIS,Walt Disney Co,2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001744489,DIS,Walt Disney Co,2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001744489,DIS,Walt Disney Co,2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001744489,DIS,Walt Disney Co,2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001375365,SMCI,"Super Micro Computer, Inc.",2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0000019617,JPM,JPMORGAN CHASE & CO,,industry_exclusion,excluded industry: financial (SIC 6021 in 6000-6999)
+0000886982,GS,GOLDMAN SACHS GROUP INC,,industry_exclusion,excluded industry: financial (SIC 6211 in 6000-6999)
+0000070858,BAC,BANK OF AMERICA CORP /DE/,,industry_exclusion,excluded industry: financial (SIC 6021 in 6000-6999)
+0001326160,DUK,Duke Energy CORP,,industry_exclusion,excluded industry: utility (SIC 4931 in 4900-4999)
+0000092122,SO,SOUTHERN CO,,industry_exclusion,excluded industry: utility (SIC 4911 in 4900-4999)
+0000753308,NEE,NEXTERA ENERGY INC,,industry_exclusion,excluded industry: utility (SIC 4911 in 4900-4999)
+0000731766,UNH,UNITEDHEALTH GROUP INC,,industry_exclusion,excluded industry: financial (SIC 6324 in 6000-6999)
+0001730168,AVGO,Broadcom Inc.,2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001730168,AVGO,Broadcom Inc.,2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001730168,AVGO,Broadcom Inc.,2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001571996,DELL,Dell Technologies Inc.,2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001585521,ZM,"Zoom Communications, Inc.",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001585521,ZM,"Zoom Communications, Inc.",2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001585521,ZM,"Zoom Communications, Inc.",2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001585521,ZM,"Zoom Communications, Inc.",2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001543151,UBER,"Uber Technologies, Inc",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001543151,UBER,"Uber Technologies, Inc",2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001543151,UBER,"Uber Technologies, Inc",2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001543151,UBER,"Uber Technologies, Inc",2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001759509,LYFT,"Lyft, Inc.",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001759509,LYFT,"Lyft, Inc.",2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001759509,LYFT,"Lyft, Inc.",2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001759509,LYFT,"Lyft, Inc.",2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001564408,SNAP,Snap Inc,2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001564408,SNAP,Snap Inc,2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001506293,PINS,"PINTEREST, INC.",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001506293,PINS,"PINTEREST, INC.",2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001506293,PINS,"PINTEREST, INC.",2017,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001506293,PINS,"PINTEREST, INC.",2018,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001428439,ROKU,"ROKU, INC",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001428439,ROKU,"ROKU, INC",2016,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001512673,XYZ,"Block, Inc.",2015,data,no 10-K with a tagged balance sheet (us-gaap Assets) for this fiscal year
+0001652044,GOOGL,Alphabet Inc.,2015,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2016,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2017,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2018,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2019,index_computation,AQI: missing ppe; DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2020,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2021,index_computation,DEPI: missing depreciation
+0001652044,GOOGL,Alphabet Inc.,2022,index_computation,DEPI: missing depreciation
+0001326801,META,"Meta Platforms, Inc.",2019,index_computation,AQI: missing ppe; DEPI: missing ppe
+0000034088,,EXXON MOBIL CORP,2015,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2016,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2017,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2018,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2019,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2020,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2021,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2022,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2023,index_computation,GMI: missing cogs
+0000034088,,EXXON MOBIL CORP,2024,index_computation,GMI: missing cogs
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2019,index_computation,DSRI: missing sales_prev; GMI: missing sales_prev; AQI: missing current_assets_prev; SGI: missing sales_prev; DEPI: missing depreciation_prev; SGAI: missing sga; LVGI: missing current_liabilities_prev
+0000078003,PFE,PFIZER INC,2020,index_computation,DEPI: missing depreciation
+0000354950,HD,"HOME DEPOT, INC.",2019,index_computation,AQI: missing ppe; DEPI: missing ppe
+0000012927,BA,BOEING CO,2020,index_computation,GMI: negative gross margin (index not interpretable)
+0000012927,BA,BOEING CO,2021,index_computation,GMI: nonpositive gross margin in prior year (index not interpretable)
+0000012927,BA,BOEING CO,2024,index_computation,GMI: negative gross margin (index not interpretable)
+0000063908,MCD,MCDONALDS CORP,2015,index_computation,GMI: missing cogs
+0000063908,MCD,MCDONALDS CORP,2016,index_computation,GMI: missing cogs
+0000063908,MCD,MCDONALDS CORP,2017,index_computation,GMI: missing cogs
+0000063908,MCD,MCDONALDS CORP,2018,index_computation,GMI: missing cogs
+0000063908,MCD,MCDONALDS CORP,2019,index_computation,GMI: missing cogs
+0000063908,MCD,MCDONALDS CORP,2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0000063908,MCD,MCDONALDS CORP,2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0000063908,MCD,MCDONALDS CORP,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0000063908,MCD,MCDONALDS CORP,2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0000063908,MCD,MCDONALDS CORP,2024,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2019,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2020,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2021,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2022,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2023,index_computation,GMI: missing cogs
+0001744489,DIS,Walt Disney Co,2024,index_computation,GMI: missing cogs
+0001065280,NFLX,NETFLIX INC,2015,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2016,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2017,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2018,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2019,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2020,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2021,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2022,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2023,index_computation,DSRI: missing receivables
+0001065280,NFLX,NETFLIX INC,2024,index_computation,DSRI: missing receivables
+0001341439,ORCL,ORACLE CORP,2015,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2018,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2019,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2020,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2021,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2022,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2023,index_computation,GMI: missing cogs
+0001341439,ORCL,ORACLE CORP,2024,index_computation,GMI: missing cogs
+0001108524,CRM,"Salesforce, Inc.",2017,index_computation,DSRI: missing sales; GMI: missing sales; SGI: missing sales; SGAI: missing sales
+0000027419,TGT,TARGET CORP,2015,index_computation,DSRI: missing receivables
+0000027419,TGT,TARGET CORP,2016,index_computation,DSRI: missing receivables
+0000027419,TGT,TARGET CORP,2017,index_computation,DSRI: missing receivables
+0000027419,TGT,TARGET CORP,2018,index_computation,DSRI: missing receivables
+0000027419,TGT,TARGET CORP,2019,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2015,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2016,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2017,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2018,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2019,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2020,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2021,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2022,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2023,index_computation,DSRI: missing receivables
+0000060667,LOW,LOWES COMPANIES INC,2024,index_computation,DSRI: missing receivables
+0001090727,UPS,UNITED PARCEL SERVICE INC,2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2018,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2019,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0001090727,UPS,UNITED PARCEL SERVICE INC,2024,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2018,index_computation,SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2019,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0001048911,FDX,FEDEX CORP,2024,index_computation,GMI: missing cogs; SGAI: missing sga
+0000040545,GE,GENERAL ELECTRIC CO,2015,index_computation,AQI: missing current_assets; LVGI: missing current_liabilities
+0000040545,GE,GENERAL ELECTRIC CO,2016,index_computation,AQI: missing current_assets; LVGI: missing current_liabilities
+0000040545,GE,GENERAL ELECTRIC CO,2017,index_computation,AQI: missing current_assets; LVGI: missing current_liabilities
+0000040545,GE,GENERAL ELECTRIC CO,2018,index_computation,GMI: missing cogs; AQI: missing current_assets; LVGI: missing current_liabilities
+0000040545,GE,GENERAL ELECTRIC CO,2019,index_computation,AQI: missing current_assets; LVGI: missing current_liabilities
+0000040545,GE,GENERAL ELECTRIC CO,2021,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe
+0000040545,GE,GENERAL ELECTRIC CO,2022,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe
+0000040545,GE,GENERAL ELECTRIC CO,2023,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe
+0000040545,GE,GENERAL ELECTRIC CO,2024,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe
+0000037996,F,FORD MOTOR CO,2015,index_computation,DSRI: missing receivables; AQI: missing current_assets; LVGI: missing current_liabilities
+0001467858,GM,General Motors Co,2015,index_computation,DEPI: missing depreciation
+0001467858,GM,General Motors Co,2016,index_computation,DEPI: missing depreciation
+0001467858,GM,General Motors Co,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0001467858,GM,General Motors Co,2023,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe; SGAI: missing sga
+0001467858,GM,General Motors Co,2024,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe; SGAI: missing sga
+0000093410,CVX,CHEVRON CORP,2015,index_computation,GMI: missing cogs
+0000093410,CVX,CHEVRON CORP,2016,index_computation,GMI: missing cogs
+0000093410,CVX,CHEVRON CORP,2017,index_computation,GMI: missing cogs
+0000093410,CVX,CHEVRON CORP,2019,index_computation,AQI: missing ppe; DEPI: missing ppe
+0000829224,SBUX,STARBUCKS CORP,2020,index_computation,GMI: missing cogs
+0000829224,SBUX,STARBUCKS CORP,2021,index_computation,GMI: missing cogs
+0000829224,SBUX,STARBUCKS CORP,2022,index_computation,GMI: missing cogs
+0000829224,SBUX,STARBUCKS CORP,2023,index_computation,GMI: missing cogs
+0000829224,SBUX,STARBUCKS CORP,2024,index_computation,GMI: missing cogs
+0001336917,UAA,"Under Armour, Inc.",2022,index_computation,DSRI: missing sales_prev; GMI: missing sales_prev; SGI: missing sales_prev; DEPI: missing depreciation_prev; SGAI: missing sga_prev
+0001637459,KHC,Kraft Heinz Co,2015,index_computation,DSRI: missing sales; GMI: missing sales; SGI: missing sales; DEPI: missing depreciation; SGAI: missing sga; TATA: missing net_income
+0000732717,T,AT&T INC.,2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0000732717,T,AT&T INC.,2016,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2017,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2018,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2019,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2020,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe
+0000732717,T,AT&T INC.,2021,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2022,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2023,index_computation,GMI: missing cogs
+0000732717,T,AT&T INC.,2024,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2018,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2019,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2020,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2021,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2022,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2023,index_computation,GMI: missing cogs
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2024,index_computation,GMI: missing cogs
+0000315189,DE,DEERE & CO,2015,index_computation,DSRI: missing receivables; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2016,index_computation,DSRI: missing receivables; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2017,index_computation,DSRI: missing receivables; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2018,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2019,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2020,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2021,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; DEPI: missing ppe; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2022,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; DEPI: missing ppe; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2023,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; DEPI: missing ppe; LVGI: missing current_liabilities
+0000315189,DE,DEERE & CO,2024,index_computation,DSRI: missing receivables; GMI: missing cogs; AQI: missing current_assets; DEPI: missing ppe; LVGI: missing current_liabilities
+0000936468,LMT,LOCKHEED MARTIN CORP,2015,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2016,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2017,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2018,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2019,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2020,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2021,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2022,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2023,index_computation,SGAI: missing sga
+0000936468,LMT,LOCKHEED MARTIN CORP,2024,index_computation,SGAI: missing sga
+0001103982,MDLZ,"Mondelez International, Inc.",2019,index_computation,AQI: missing ppe; DEPI: missing ppe
+0000055785,KMB,KIMBERLY CLARK CORP,2015,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2016,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2017,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2018,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2019,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2020,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2021,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2022,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2023,index_computation,SGAI: missing sga
+0000055785,KMB,KIMBERLY CLARK CORP,2024,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2015,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2016,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2017,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2018,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2019,index_computation,DSRI: missing receivables_prev; GMI: missing sales_prev; AQI: missing ppe; SGI: missing sales_prev; DEPI: missing depreciation_prev; SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2020,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2021,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2022,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2023,index_computation,SGAI: missing sga
+0000064803,CVS,CVS HEALTH Corp,2024,index_computation,SGAI: missing sga
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2018,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2019,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2020,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2021,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2022,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2023,index_computation,GMI: missing cogs
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2024,index_computation,GMI: missing cogs
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2015,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2016,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2017,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2018,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2019,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2020,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2021,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2022,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2023,index_computation,SGAI: missing sga
+0000049826,ITW,ILLINOIS TOOL WORKS INC,2024,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2015,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2016,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2017,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2018,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2019,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2020,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2021,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2022,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2023,index_computation,SGAI: missing sga
+0000764180,MO,"ALTRIA GROUP, INC.",2024,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2015,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2018,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2019,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2020,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2021,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2022,index_computation,DEPI: missing depreciation; SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2023,index_computation,SGAI: missing sga
+0001413329,PM,Philip Morris International Inc.,2024,index_computation,SGAI: missing sga
+0001075531,BKNG,Booking Holdings Inc.,2018,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2019,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2020,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2021,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2022,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2023,index_computation,GMI: missing cogs
+0001075531,BKNG,Booking Holdings Inc.,2024,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2015,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2016,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2017,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2018,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2019,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2020,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2021,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2022,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2023,index_computation,GMI: missing cogs
+0001633917,PYPL,"PayPal Holdings, Inc.",2024,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2018,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2019,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2020,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2021,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2022,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2023,index_computation,GMI: missing cogs
+0000896878,INTU,INTUIT INC.,2024,index_computation,GMI: missing cogs
+0000723125,MU,MICRON TECHNOLOGY INC,2023,index_computation,GMI: negative gross margin (index not interpretable)
+0000723125,MU,MICRON TECHNOLOGY INC,2024,index_computation,GMI: nonpositive gross margin in prior year (index not interpretable)
+0000707549,LRCX,LAM RESEARCH CORP,2019,index_computation,DSRI: missing receivables_prev; GMI: missing sales_prev; AQI: missing current_assets_prev; SGI: missing sales_prev; DEPI: missing depreciation_prev; SGAI: missing sga_prev; LVGI: missing current_liabilities_prev
+0001571996,DELL,Dell Technologies Inc.,2023,index_computation,DSRI: missing receivables
+0001543151,UBER,"Uber Technologies, Inc",2019,index_computation,GMI: missing cogs
+0001543151,UBER,"Uber Technologies, Inc",2020,index_computation,GMI: missing cogs
+0001543151,UBER,"Uber Technologies, Inc",2021,index_computation,GMI: missing cogs
+0001543151,UBER,"Uber Technologies, Inc",2022,index_computation,GMI: missing cogs
+0001543151,UBER,"Uber Technologies, Inc",2023,index_computation,GMI: missing cogs
+0001543151,UBER,"Uber Technologies, Inc",2024,index_computation,GMI: missing cogs
+0001759509,LYFT,"Lyft, Inc.",2019,index_computation,DSRI: missing receivables
+0001759509,LYFT,"Lyft, Inc.",2020,index_computation,DSRI: missing receivables
+0001759509,LYFT,"Lyft, Inc.",2021,index_computation,DSRI: missing receivables
+0001759509,LYFT,"Lyft, Inc.",2022,index_computation,DSRI: missing receivables
+0001759509,LYFT,"Lyft, Inc.",2023,index_computation,DSRI: missing receivables
+0001759509,LYFT,"Lyft, Inc.",2024,index_computation,DSRI: missing receivables
+0001564408,SNAP,Snap Inc,2017,index_computation,GMI: nonpositive gross margin in prior year (index not interpretable)
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2015,index_computation,DSRI: missing sales; GMI: missing sales; SGI: missing sales; SGAI: missing sales
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2016,index_computation,DSRI: missing sales; GMI: missing sales; SGI: missing sales; SGAI: missing sales
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2017,index_computation,DSRI: missing sales; GMI: missing sales; SGI: missing sales; SGAI: missing sales
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2018,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2019,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2020,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2021,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2022,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2023,index_computation,GMI: missing cogs
+0001058090,CMG,CHIPOTLE MEXICAN GRILL INC,2024,index_computation,GMI: missing cogs
+0001041061,YUM,YUM BRANDS INC,2016,index_computation,DSRI: missing receivables; GMI: missing sales; AQI: missing ppe; SGI: missing sales; DEPI: missing ppe; SGAI: missing sga; TATA: missing cfo
+0001041061,YUM,YUM BRANDS INC,2017,index_computation,DSRI: missing receivables; GMI: missing sales; AQI: missing ppe; SGI: missing sales; DEPI: missing ppe; SGAI: missing sga; TATA: missing cfo
+0001041061,YUM,YUM BRANDS INC,2018,index_computation,DSRI: missing receivables_prev; GMI: missing sales_prev; AQI: missing ppe_prev; SGI: missing sales_prev; DEPI: missing ppe_prev; SGAI: missing sga; TATA: missing cfo
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2015,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2016,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2017,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2018,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2019,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2020,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2021,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2022,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2023,index_computation,GMI: missing cogs
+0001048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,2024,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2015,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2016,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2017,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2018,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2019,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2020,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2021,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2022,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2023,index_computation,GMI: missing cogs
+0001585689,HLT,Hilton Worldwide Holdings Inc.,2024,index_computation,GMI: missing cogs
+0000027904,DAL,"DELTA AIR LINES, INC.",2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2018,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2019,index_computation,GMI: missing cogs; AQI: missing ppe; DEPI: missing ppe; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0000027904,DAL,"DELTA AIR LINES, INC.",2024,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2018,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2019,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0000100517,UAL,"United Airlines Holdings, Inc.",2024,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2018,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2019,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0000006201,AAL,American Airlines Group Inc.,2024,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2015,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2016,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2017,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2018,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2019,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2020,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2021,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2022,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2023,index_computation,GMI: missing cogs; SGAI: missing sga
+0000092380,LUV,SOUTHWEST AIRLINES CO,2024,index_computation,GMI: missing cogs; SGAI: missing sga

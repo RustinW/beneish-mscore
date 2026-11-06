@@ -1,0 +1,4 @@
+# Known manipulation firm-years for the back-test. One row per firm-year.
+# Required: fiscal_year, plus cik (or gvkey) and/or ticker. Extra columns are ignored.
+# fiscal_year follows the Compustat convention (year ends Jan-May belong to the prior calendar year).
+cik,ticker,fiscal_year,source
